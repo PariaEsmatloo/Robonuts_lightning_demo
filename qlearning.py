@@ -8,7 +8,7 @@ Created on Thu Mar 25 19:15:46 2021
 @author: Robonuts Team, Paria Esmatloo (p.esmatloo@utexas.edu)
 This code was a modification of the code for the Qlearning tutorial for 
 simplified Frozen Lake problem by "The Computer Scientist" developed in 2018 
-wich is linked below
+which is linked below
 https://github.com/the-computer-scientist/OpenAIGym/blob/master/QLearningIntro.ipynb
 
 """
