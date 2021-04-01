@@ -12,6 +12,11 @@ which is linked below
 https://github.com/the-computer-scientist/OpenAIGym/blob/master/QLearningIntro.ipynb
 
 """
+"""
+ before running this program, make sure to install gym using the folloeing command in your command line
+ pip install gym
+  
+"""
 
 import gym
 import random
